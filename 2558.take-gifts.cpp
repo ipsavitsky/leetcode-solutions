@@ -1,3 +1,13 @@
+/**
+ * @file 2558.take-gifts.cpp
+ * @author Ilya Savitsky (ipsavitsky234@gmail.com)
+ * @brief https://leetcode.com/problems/take-gifts-from-the-richest-pile/
+ * @version 0.1
+ * @date 2023-04-01
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
 #include <vector>
 #include <cmath>
 #include <numeric>

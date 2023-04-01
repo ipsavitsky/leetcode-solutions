@@ -1,4 +1,14 @@
 #include <algorithm>
+/**
+ * @file 4.median-of-two.cpp
+ * @author Ilya Savitsky (ipsavitsky234@gmail.com)
+ * @brief https://leetcode.com/problems/median-of-two-sorted-arrays/
+ * @version 0.1
+ * @date 2023-04-01
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
 #include <iterator>
 #include <vector>
 
