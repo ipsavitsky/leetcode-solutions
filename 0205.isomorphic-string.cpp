@@ -1,5 +1,5 @@
 /**
- * @file 205.isomorphic-string.cpp
+ * @file 0205.isomorphic-string.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/isomorphic-strings/
  * @version 0.1

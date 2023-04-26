@@ -1,3 +1,14 @@
+/**
+ * @file 1046.last-stone-weight.cpp
+ * @author Ilya Savitsky (ipsavitsky234@gmail.com)
+ * @brief https://leetcode.com/problems/last-stone-weight/
+ * @version 0.1
+ * @date 2023-04-26
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 #include <algorithm>
 #include <vector>
 

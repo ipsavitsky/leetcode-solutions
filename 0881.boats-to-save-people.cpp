@@ -1,5 +1,5 @@
 /**
- * @file 881.boats-to-save-people.cpp
+ * @file 0881.boats-to-save-people.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/boats-to-save-people/
  * @version 0.1

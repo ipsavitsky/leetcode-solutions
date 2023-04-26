@@ -1,5 +1,5 @@
 /**
- * @file 4.median-of-two.cpp
+ * @file 0004.median-of-two.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/median-of-two-sorted-arrays/
  * @version 0.1

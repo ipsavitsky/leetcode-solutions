@@ -1,5 +1,5 @@
 /**
- * @file 1372-longest-zigzag.cpp
+ * @file 1372.longest-zigzag.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
  * @version 0.1

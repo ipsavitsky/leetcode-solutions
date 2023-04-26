@@ -1,5 +1,5 @@
 /**
- * @file 392.is-subsequence.cpp
+ * @file 0392.is-subsequence.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/is-subsequence/
  * @version 0.1

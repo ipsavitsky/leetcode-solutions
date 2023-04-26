@@ -1,5 +1,5 @@
 /**
- * @file 14.common-prefix.cpp
+ * @file 0014.common-prefix.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/longest-common-prefix/
  * @version 0.1

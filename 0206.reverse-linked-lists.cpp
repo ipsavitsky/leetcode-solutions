@@ -1,3 +1,14 @@
+/**
+ * @file 0206.reverse-linked-lists.cpp
+ * @author Ilya Savitsky (ipsavitsky234@gmail.com)
+ * @brief https://leetcode.com/problems/reverse-linked-list/
+ * @version 0.1
+ * @date 2023-04-26
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 struct ListNode {
     int val;
     ListNode *next;

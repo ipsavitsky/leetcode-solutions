@@ -1,5 +1,5 @@
 /**
- * @file 704.binary-search.cpp
+ * @file 0704.binary-search.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/binary-search/
  * @version 0.1

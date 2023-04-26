@@ -1,5 +1,5 @@
 /**
- * @file 724.pivot-index.cpp
+ * @file 0724.pivot-index.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/find-pivot-index
  * @version 0.1
