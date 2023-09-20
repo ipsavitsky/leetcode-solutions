@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
  * @version 0.1
  * @date 2023-09-20
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <numeric>
 #include <vector>
@@ -31,7 +31,9 @@ class Solution {
                 left_it++;
             }
             if (cur_sum == target) {
-              max_len = std::max(max_len, static_cast<int>(std::distance(left_it, right_it) + 1));
+                max_len = std::max(
+                    max_len,
+                    static_cast<int>(std::distance(left_it, right_it) + 1));
             }
         }
         return max_len ? n - max_len : -1;
