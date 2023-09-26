@@ -1,6 +1,6 @@
 /**
  * @file 0242.valid-anagram.cpp
- * @author Ilysa Savitsky (ipsavitsky234@gmail.com)
+ * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/valid-anagram/
  * @version 0.1
  * @date 2023-09-20

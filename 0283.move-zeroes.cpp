@@ -1,6 +1,6 @@
 /**
  * @file 0283.move-zeroes.cpp
- * @author Ilysa Savitsky (ipsavitsky234@gmail.com)
+ * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/move-zeroes/
  * @version 0.1
  * @date 2023-09-21

@@ -1,6 +1,6 @@
 /**
  * @file 0058.length-of-last-world.cpp
- * @author Ilysa Savitsky (ipsavitsky234@gmail.com)
+ * @author Ilya Savitsky (ipsavitsky234@gmail.com)
  * @brief https://leetcode.com/problems/length-of-last-word
  * @version 0.1
  * @date 2023-09-23

@@ -1,8 +1,7 @@
 /**
  * @file 1456.max-vowels.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
- * @brief
- * https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+ * @brief https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
  * @version 0.1
  * @date 2023-05-05
  *
