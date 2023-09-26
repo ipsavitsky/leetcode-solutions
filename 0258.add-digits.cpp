@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/add-digits/
  * @version 0.1
  * @date 2023-04-26
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 
 class Solution {

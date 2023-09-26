@@ -14,9 +14,9 @@
 class Solution {
   public:
     int arraySign(std::vector<int> &nums) {
-        return std::accumulate(
-            nums.begin(), nums.end(), 1, [](int sgn, int cur) {
-                return sgn *= cur > 0 ? 1 : cur < 0 ? -1 : 0;
-            });
+        return std::accumulate(nums.begin(), nums.end(), 1,
+                               [](int sgn, int cur) {
+                                   return sgn *= cur > 0 ? 1 : cur < 0 ? -1 : 0;
+                               });
     }
 };

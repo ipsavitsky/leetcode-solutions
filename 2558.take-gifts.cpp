@@ -4,19 +4,20 @@
  * @brief https://leetcode.com/problems/take-gifts-from-the-richest-pile/
  * @version 0.1
  * @date 2023-04-01
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
-#include <vector>
 #include <cmath>
 #include <numeric>
+#include <vector>
 
 class Solution {
-public:
-    long long pickGifts(std::vector<int>& gifts, int k) {
+  public:
+    long long pickGifts(std::vector<int> &gifts, int k) {
         for (int i = 0; i < k; ++i) {
-            std::vector<int>::iterator m_iter = std::max_element(gifts.begin(), gifts.end());
+            std::vector<int>::iterator m_iter =
+                std::max_element(gifts.begin(), gifts.end());
             *m_iter = std::sqrt(*m_iter);
         }
         return std::accumulate(gifts.begin(), gifts.end(), 0LL);

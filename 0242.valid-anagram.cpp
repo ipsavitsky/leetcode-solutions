@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/valid-anagram/
  * @version 0.1
  * @date 2023-09-20
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <algorithm>
 #include <string>

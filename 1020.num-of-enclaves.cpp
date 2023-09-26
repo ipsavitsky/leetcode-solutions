@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/number-of-enclaves/
  * @version 0.1
  * @date 2023-04-07
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <vector>
 

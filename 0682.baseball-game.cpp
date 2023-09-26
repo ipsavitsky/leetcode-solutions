@@ -18,15 +18,15 @@ class Solution {
     int calPoints(std::vector<std::string> &operations) {
         std::deque<int> record;
         for (const std::string &cur : operations) {
-          if ("D" == cur) {
-            record.push_back(record.back() * 2);
-          } else if ("C" == cur) {
-            record.pop_back();
-          } else if ("+" == cur) {
-            record.push_back(record.back() + record[record.size()-2]);
-          } else {
-            record.push_back(std::stoi(cur));
-          }
+            if ("D" == cur) {
+                record.push_back(record.back() * 2);
+            } else if ("C" == cur) {
+                record.pop_back();
+            } else if ("+" == cur) {
+                record.push_back(record.back() + record[record.size() - 2]);
+            } else {
+                record.push_back(std::stoi(cur));
+            }
         }
         return std::accumulate(record.begin(), record.end(), 0);
     }

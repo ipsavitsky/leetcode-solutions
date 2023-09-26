@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/isomorphic-strings/
  * @version 0.1
  * @date 2023-04-02
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <string>
 #include <unordered_map>

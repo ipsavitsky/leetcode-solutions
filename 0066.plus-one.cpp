@@ -22,7 +22,7 @@ class Solution {
             }
         }
         if (digits.front() == 0) {
-          digits.insert(digits.begin(), 1);
+            digits.insert(digits.begin(), 1);
         }
         return digits;
     }

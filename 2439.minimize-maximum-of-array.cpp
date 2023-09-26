@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/minimize-maximum-of-array/
  * @version 0.1
  * @date 2023-04-18
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <algorithm>
 #include <cmath>

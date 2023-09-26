@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/move-zeroes/
  * @version 0.1
  * @date 2023-09-21
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <vector>
 

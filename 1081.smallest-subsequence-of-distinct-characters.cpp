@@ -1,7 +1,8 @@
 /**
  * @file 1081.smallest-subsequence-of-distinct-characters.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
- * @brief https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
+ * @brief
+ * https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
  * @version 0.1
  * @date 2023-09-26
  *
@@ -44,7 +45,7 @@ class Solution {
         res_s.reserve(s.size());
         std::transform(res.begin(), res.end(), std::back_inserter(res_s),
                        [](const s_it &cur) { return *cur; });
-        
+
         return res_s;
     }
 };

@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/smallest-number-in-infinite-set/
  * @version 0.1
  * @date 2023-04-26
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <algorithm>
 #include <functional>
@@ -37,7 +37,7 @@ class SmallestInfiniteSet {
             std::find(added_nums.begin(), added_nums.end(), num);
         if (num >= ceiling || found_place != added_nums.end())
             return;
-        else{
+        else {
             added_nums.push_back(num);
             std::push_heap(added_nums.begin(), added_nums.end(),
                            std::greater<int>{});

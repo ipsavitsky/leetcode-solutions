@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/validate-stack-sequences/
  * @version 0.1
  * @date 2023-04-13
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <stack>
 #include <vector>

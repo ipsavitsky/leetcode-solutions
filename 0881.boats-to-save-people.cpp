@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/boats-to-save-people/
  * @version 0.1
  * @date 2023-04-03
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <algorithm>
 #include <list>

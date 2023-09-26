@@ -1,12 +1,13 @@
 /**
  * @file 1431.kids-and-candies.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
- * @brief https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+ * @brief
+ * https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
  * @version 0.1
  * @date 2023-04-18
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <algorithm>
 #include <vector>

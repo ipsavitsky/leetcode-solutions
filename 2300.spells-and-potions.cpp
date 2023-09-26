@@ -4,13 +4,13 @@
  * @brief https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
  * @version 0.1
  * @date 2023-04-02
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
+#include <algorithm>
 #include <numeric>
 #include <vector>
-#include <algorithm>
 
 class Solution {
   public:

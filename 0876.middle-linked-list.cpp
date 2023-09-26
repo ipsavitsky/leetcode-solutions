@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/middle-of-the-linked-list/
  * @version 0.1
  * @date 2023-04-04
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 
 struct ListNode {

@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/find-the-difference-of-two-arrays/
  * @version 0.1
  * @date 2023-05-03
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <algorithm>
 #include <vector>

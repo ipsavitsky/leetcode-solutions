@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/binary-search/
  * @version 0.1
  * @date 2023-04-01
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <cstdlib>
 #include <functional>

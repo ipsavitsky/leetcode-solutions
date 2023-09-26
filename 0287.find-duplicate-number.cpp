@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/find-the-duplicate-number
  * @version 0.1
  * @date 2023-09-19
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <algorithm>
 

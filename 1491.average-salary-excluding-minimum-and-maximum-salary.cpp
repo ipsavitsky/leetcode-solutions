@@ -1,7 +1,8 @@
 /**
  * @file 1491.average-salary-excluding-minimum-and-maximum-salary.cpp
  * @author Ilya Savitsky (ipsavitsky234@gmail.com)
- * @brief https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary
+ * @brief
+ * https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary
  * @version 0.1
  * @date 2023-09-22
  *

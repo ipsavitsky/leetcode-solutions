@@ -64,4 +64,3 @@ class Solution {
         return *std::max_element(results.begin(), results.end());
     }
 };
-

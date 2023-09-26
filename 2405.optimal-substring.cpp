@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/optimal-partition-of-string/
  * @version 0.1
  * @date 2023-04-04
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <algorithm>
 #include <array>

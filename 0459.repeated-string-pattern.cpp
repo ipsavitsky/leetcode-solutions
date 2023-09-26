@@ -4,9 +4,9 @@
  * @brief https://leetcode.com/problems/repeated-substring-pattern/
  * @version 0.1
  * @date 2023-09-21
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 #include <regex>
 #include <string>
