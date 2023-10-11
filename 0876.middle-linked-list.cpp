@@ -8,7 +8,6 @@
  * @copyright Copyright (c) 2023
  *
  */
-
 struct ListNode {
     int val;
     ListNode *next;
