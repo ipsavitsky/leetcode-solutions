@@ -8,36 +8,34 @@
  * @copyright Copyright (c) 2023
  *
  */
-#include <vector>
 #include <iostream>
+#include <vector>
 
 // Definition for a Node.
 class Node {
-public:
+  public:
     int val;
-    std::vector<Node*> children;
+    std::vector<Node *> children;
 
     Node() {}
 
-    Node(int _val) {
-        val = _val;
-    }
+    Node(int _val) { val = _val; }
 
-    Node(int _val, std::vector<Node*> _children) {
+    Node(int _val, std::vector<Node *> _children) {
         val = _val;
         children = _children;
     }
 };
 
 class Solution {
-public:
-    std::vector<int> postorder(Node* root) {
+  public:
+    std::vector<int> postorder(Node *root) {
         if (root == nullptr) {
             return {};
         }
         std::vector<int> result;
-        
-        for(auto child : root->children) {
+
+        for (auto child : root->children) {
             std::vector<int> a = postorder(child);
             result.insert(result.end(), a.begin(), a.end());
         }
